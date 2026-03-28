@@ -1,21 +1,21 @@
-# Secção 2 — Estudo de Sistemas Semelhantes
+# Secção 2 - Estudo de Sistemas Semelhantes
 
 ## Objetivo
-Analisar 2 a 3 aplicações existentes de gestão de medicação.
+Analisar 2 aplicações existentes de gestão de medicação (1 por elemento).
 
-## Apps a Analisar
+## Apps Analisadas
 
 | App | Responsável | Estado |
 |-----|-------------|--------|
-| Medisafe | [Nome do aluno] | [ ] |
-| MyTherapy | [Nome do aluno] | [ ] |
-| [Outra app] | [Nome do aluno] | [ ] |
+| Medisafe | Miguel Pauzinho (27131) | [ ] |
+| MyTherapy | Francisco Soudo (14060) | [ ] |
 
 ## Critérios de Análise
-- Interface e usabilidade
+- Interface e design geral
 - Funcionalidades principais
-- Pontos positivos
+- Pontos positivos da interface
 - Pontos negativos / limitações
 
 ## Documentos
-> Adicionar aqui as análises individuais de cada aluno.
+- `miguel_medisafe/analise_medisafe.md` - análise do Miguel
+- `francisco_mytherapy/analise_mytherapy.md` - análise do Francisco

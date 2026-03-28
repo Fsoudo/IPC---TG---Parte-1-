@@ -1,20 +1,21 @@
-# Secção 6 — Estilos e Dispositivos de Interação
+# Secção 6 - Estilos e Dispositivos de Interação
 
-## Objetivo
-Identificar e justificar os estilos de interação e dispositivos utilizados na aplicação EasyMed.
+(1 valor) · Equipa
 
 ## Estilos de Interação
 
-| Estilo | Descrição | Justificação |
-|--------|-----------|--------------|
-| Manipulação direta | Toque e gestos no ecrã | [Justificação IPC] |
-| Menus | Navegação por listas e opções | [Justificação IPC] |
-| Notificações | Alertas sonoros e visuais | [Justificação IPC] |
+| Estilo | Estado |
+|--------|--------|
+| Manipulação direta (toque, swipe) | [X] |
+| Menus e listas | [X] |
+| Notificações e alertas | [X] |
 
 ## Dispositivos de Interação
-- Ecrã tátil (smartphone Android)
-- Notificações sonoras / vibração
-- [Outros se aplicável]
 
-## Princípios IPC Aplicados
-> Fundamentar as escolhas com base nos princípios de Interação Pessoa-Computador.
+| Dispositivo | Estado |
+|-------------|--------|
+| Ecrã tátil - smartphone Android | [X] |
+| Som e vibração | [X] |
+
+## Documentos
+- `estilos_dispositivos.md` - análise completa com justificações IPC (Equipa)

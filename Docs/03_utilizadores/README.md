@@ -1,4 +1,4 @@
-# Secção 3 — Caracterização dos Utilizadores
+# Secção 3 - Caracterização dos Utilizadores
 
 ## Objetivo
 Identificar perfis de utilizadores e criar personas representativas.
@@ -9,11 +9,11 @@ Identificar perfis de utilizadores e criar personas representativas.
 
 ## Personas
 
-| Persona | Descrição | Responsável |
-|---------|-----------|-------------|
-| Persona 1 | [ex: Idoso com medicação crónica] | [Nome] |
-| Persona 2 | [ex: Cuidador familiar] | [Nome] |
-| Persona 3 | [ex: Adulto com doença crónica] | [Nome] |
+| Persona | Descrição | Responsável | Estado |
+|---------|-----------|-------------|--------|
+| Persona 1 - António Ferreira | Idoso com medicação crónica, baixa literacia digital | Miguel Pauzinho (27131) | [X] |
+| Persona 2 - Carla Sousa | Cuidadora familiar, enfermeira, experiente em tecnologia | Francisco Soudo (14060) | [X] |
 
 ## Documentos
-> Adicionar aqui os ficheiros com as personas criadas.
+- `miguel_persona1/persona1_miguel.md` - Persona 1 (Miguel)
+- `francisco_persona2/persona2_francisco.md` - Persona 2 (Francisco)

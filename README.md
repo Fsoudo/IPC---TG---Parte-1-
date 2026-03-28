@@ -1,79 +1,97 @@
-# 💊 EasyMed — Gestão de Medicação Semanal
+# EasyMed - Gestão de Medicação Semanal
 
-> Trabalho de Grupo — Interação Pessoa-Computador (IPC)  
-> Licenciatura em Engenharia Informática | Instituto Politécnico de Beja  
-> Ano Letivo 2025/2026
-
----
-
-## 📌 Sobre o Projeto
-
-O **EasyMed** é uma aplicação Android que auxilia pacientes na gestão da toma semanal de fármacos. O objetivo é proporcionar uma interface simples, intuitiva e acessível, com foco em utilizadores com necessidades específicas (ex: idosos, cuidadores familiares).
+> Trabalho de Grupo 1 - Interação Pessoa-Computador (IPC)
+> Licenciatura em Engenharia Informática | Instituto Politécnico de Beja
+> Ano Letivo 2025/2026 · Equipa 14
 
 ---
 
-## 👥 Equipa
+## Sobre o Projeto
+
+O **EasyMed** é uma aplicação Android que auxilia pacientes na gestão da toma semanal de medicamentos. O objetivo é proporcionar uma interface simples, intuitiva e acessível, com foco em utilizadores com necessidades específicas (idosos, cuidadores familiares).
+
+---
+
+## Equipa
 
 | Nome | Nº Aluno |
 |------|----------|
-| Francisco Soudo | 14060 |
 | Miguel Pauzinho | 27131 |
-
+| Francisco Soudo | 14060 |
 
 **Docente responsável:** luisbgarcia@ipbeja.pt
 
 ---
 
-## 📋 Plano de Trabalho
+## Ferramentas Utilizadas
 
-| Secção | Descrição | Valor |
-|--------|-----------|-------|
-| 1 | Ferramentas e Organização da Equipa | 2 |
-| 2 | Estudo de Sistemas Semelhantes | 2 |
-| 3 | Caracterização dos Utilizadores | 2 |
-| 4 | Cenários de Utilização | 2 |
-| 5 | Análise de Tarefas (HTA) | 2 |
-| 6 | Estilos e Dispositivos de Interação | 1 |
-| 7 | Protótipo da Aplicação (Balsamiq) | 6 |
-| 8 | Apresentação e Relatório Final | 2 |
-| **Total** | | **17** |
+- **Gestão de Projeto:** Trello (Scrum - colunas: Épicos, Tarefas, Sprints)
+- **Controlo de Versões:** Git + GitHub
+- **Prototipagem:** Balsamiq Cloud
+- **Metodologia:** Scrum
 
 ---
 
-## 🗂️ Estrutura do Repositório
+## Progresso
+
+| # | Secção | Valor | Estado |
+|---|--------|-------|--------|
+| 1 | Ferramentas e Organização da Equipa | 2 | 🟡 Em curso |
+| 2 | Participação em Eventos de Informática | 1 | 🟡 Aguarda eventos (8 e 15 abr) |
+| 3 | Sistemas Semelhantes | 2 | ✅ Concluído |
+| 4 | Caracterização dos Utilizadores (Personas) | 2 | ✅ Concluído |
+| 5 | Cenários de Utilização | 2 | ✅ Concluído |
+| 6 | Análise de Tarefas (HTA) | 2 | ✅ Concluído |
+| 7 | Estilos e Dispositivos de Interação | 1 | ✅ Concluído |
+| 8 | Protótipo da Aplicação (Balsamiq) | 6 | ❌ Por fazer |
+| 9 | Relatório Individual + Apresentação | 2 | 🟡 Em curso |
+| | **Total** | **20** | |
+
+---
+
+## Estrutura do Repositório
 
 ```
-EasyMed/
-├── docs/
-│   ├── 01_organizacao/          # Ferramentas e gestão da equipa
-│   ├── 02_sistemas_similares/   # Análise de apps existentes
-│   ├── 03_utilizadores/         # Personas e perfis
-│   ├── 04_cenarios/             # Cenários de utilização
-│   ├── 05_analise_tarefas/      # HTA por tarefa
-│   ├── 06_estilos_interacao/    # Estilos e dispositivos
-│   └── 07_prototipo/            # Esboços e diagramas de navegação
-├── relatorios/                  # Relatórios individuais
+EasyMed_Local/
+├── Docs/
+│   ├── 00_eventos/                        # Participação nos eventos
+│   ├── 01_organizacao/                    # Trello, Scrum, capturas
+│   ├── 02_sistemas_similares/
+│   │   ├── miguel_medisafe/               # Análise Medisafe (Miguel)
+│   │   └── francisco_mytherapy/           # Análise MyTherapy (Francisco)
+│   ├── 03_utilizadores/
+│   │   ├── miguel_persona1/               # Persona 1 - António (Miguel)
+│   │   └── francisco_persona2/            # Persona 2 - Carla (Francisco)
+│   ├── 04_cenarios/
+│   │   ├── miguel_cenario1/               # Cenário 1 - Confirmar toma (Miguel)
+│   │   └── francisco_cenario2/            # Cenário 2 - Notificação ignorada (Francisco)
+│   ├── 05_analise_tarefas/
+│   │   ├── miguel_hta1/                   # HTA Cenário 1 (Miguel)
+│   │   └── francisco_hta2/                # HTA Cenário 2 (Francisco)
+│   ├── 06_estilos_interacao/              # Estilos e dispositivos (Equipa)
+│   └── 07_prototipo/
+│       ├── miguel/
+│       │   ├── esbocos_papel/             # Fotos dos esboços a lápis
+│       │   ├── balsamiq/                  # Ficheiros e exports Balsamiq
+│       │   ├── navegacao/                 # Diagramas de navegação
+│       │   └── principios_usabilidade_miguel.md
+│       └── francisco/
+│           ├── esbocos_papel/
+│           ├── balsamiq/
+│           ├── navegacao/
+│           └── principios_usabilidade_francisco.md
+├── Relatorios/
+│   ├── relatorio_miguel_27131.md          # Relatório individual Miguel
+│   └── relatorio_francisco_14060.md       # Relatório individual Francisco
 └── README.md
 ```
 
 ---
 
-## 🛠️ Ferramentas Utilizadas
+## Entrega
 
-- **Gestão de Projeto:** Jira / Trello (Scrum)
-- **Controlo de Versões:** Git + GitHub
-- **Prototipagem:** Balsamiq
-- **Metodologia:** Scrum
+Ficheiro ZIP via Moodle de IPC até **10 de abril de 2026**:
 
----
-
-## 📅 Progresso
-
-- [ ] Secção 1 — Organização e ferramentas
-- [ ] Secção 2 — Análise de sistemas similares
-- [ ] Secção 3 — Personas e perfis de utilizadores
-- [ ] Secção 4 — Cenários de utilização
-- [ ] Secção 5 — Análise de tarefas (HTA)
-- [ ] Secção 6 — Estilos e dispositivos de interação
-- [ ] Secção 7 — Protótipo (Balsamiq)
-- [ ] Secção 8 — Relatório e apresentação final
+```
+TG1_14_27131_14060.zip
+```
