@@ -44,4 +44,3 @@ Aqui encontram-se vários ecrãs que atestam a navegação e a experiência de u
 ![Ecrã - MyTherapy 9](<Prints/WhatsApp Image 2026-04-15 at 11.03.29 (6).jpeg>)
 ![Ecrã - MyTherapy 10](<Prints/WhatsApp Image 2026-04-15 at 11.03.29 (7).jpeg>)
 ![Ecrã - MyTherapy 11](<Prints/WhatsApp Image 2026-04-15 at 11.03.29 (8).jpeg>)
-

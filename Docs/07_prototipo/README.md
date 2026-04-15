@@ -8,8 +8,8 @@
 |------------|---------------|-------------------|
 | Esboços papel (fotografados) | [ ] | [ ] |
 | Protótipo Balsamiq + explicação ecrãs | [ ] | [ ] |
-| Diagrama de navegação | [ ] | [ ] |
-| Princípios de usabilidade (3-4) | [X] | [ ] |
+| Diagrama de navegação | [ ] | [X] |
+| Princípios de usabilidade (3-4) | [X] | [X] |
 
 ## Estrutura
 
@@ -24,5 +24,5 @@
     ├── esbocos_papel/
     ├── balsamiq/
     ├── navegacao/
-    └── principios_usabilidade_francisco.md  [ ]
+    └── principios_usabilidade_francisco.md  [X]
 ```
