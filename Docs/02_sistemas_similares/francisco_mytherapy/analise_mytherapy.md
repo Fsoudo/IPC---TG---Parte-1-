@@ -33,15 +33,15 @@ O ecrã principal funciona como uma *To-Do List* (agenda diária), mostrando os 
 
 Aqui encontram-se vários ecrãs que atestam a navegação e a experiência de utilizador na aplicação:
 
-![Ecrã - MyTherapy 1](<Prints/WhatsApp Image 2026-04-15 at 11.03.28.jpeg>)
-![Ecrã - MyTherapy 2](<Prints/WhatsApp Image 2026-04-15 at 11.03.28 (1).jpeg>)
-![Ecrã - MyTherapy 3](<Prints/WhatsApp Image 2026-04-15 at 11.03.29.jpeg>)
-![Ecrã - MyTherapy 4](<Prints/WhatsApp Image 2026-04-15 at 11.03.29 (1).jpeg>)
-![Ecrã - MyTherapy 5](<Prints/WhatsApp Image 2026-04-15 at 11.03.29 (2).jpeg>)
-![Ecrã - MyTherapy 6](<Prints/WhatsApp Image 2026-04-15 at 11.03.29 (3).jpeg>)
-![Ecrã - MyTherapy 7](<Prints/WhatsApp Image 2026-04-15 at 11.03.29 (4).jpeg>)
-![Ecrã - MyTherapy 8](<Prints/WhatsApp Image 2026-04-15 at 11.03.29 (5).jpeg>)
-![Ecrã - MyTherapy 9](<Prints/WhatsApp Image 2026-04-15 at 11.03.29 (6).jpeg>)
-![Ecrã - MyTherapy 10](<Prints/WhatsApp Image 2026-04-15 at 11.03.29 (7).jpeg>)
-![Ecrã - MyTherapy 11](<Prints/WhatsApp Image 2026-04-15 at 11.03.29 (8).jpeg>)
+![Ecrã - MyTherapy 1](Prints/image_01.jpeg)
+![Ecrã - MyTherapy 2](Prints/image_02.jpeg)
+![Ecrã - MyTherapy 3](Prints/image_03.jpeg)
+![Ecrã - MyTherapy 4](Prints/image_04.jpeg)
+![Ecrã - MyTherapy 5](Prints/image_05.jpeg)
+![Ecrã - MyTherapy 6](Prints/image_06.jpeg)
+![Ecrã - MyTherapy 7](Prints/image_07.jpeg)
+![Ecrã - MyTherapy 8](Prints/image_08.jpeg)
+![Ecrã - MyTherapy 9](Prints/image_09.jpeg)
+![Ecrã - MyTherapy 10](Prints/image_10.jpeg)
+![Ecrã - MyTherapy 11](Prints/image_11.jpeg)
 

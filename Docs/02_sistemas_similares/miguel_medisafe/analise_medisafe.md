@@ -26,5 +26,16 @@ A interface do Medisafe utiliza um esquema de cores suaves (branco, azul e verde
 2. **Excesso de funcionalidades na versão gratuita** - a interface apresenta várias opções premium bloqueadas que criam confusão visual e distraem o utilizador das funções essenciais
 3. **Navegação pouco intuitiva** - as secções de histórico e relatórios estão escondidas em menus secundários, dificultando o acesso rápido para quem não conhece bem a app
 
-## Capturas de Ecrã
-> Adicionar aqui imagens da app.
+## Capturas de Ecrã da Aplicação (Medisafe)
+
+Aqui encontram-se vários ecrãs que atestam a navegação e a experiência de utilizador na aplicação:
+
+![Ecrã - Medisafe 1](prints/image_01.jpeg)
+![Ecrã - Medisafe 2](prints/image_02.jpeg)
+![Ecrã - Medisafe 3](prints/image_03.jpeg)
+![Ecrã - Medisafe 4](prints/image_04.jpeg)
+![Ecrã - Medisafe 5](prints/image_05.jpeg)
+![Ecrã - Medisafe 6](prints/image_06.jpeg)
+![Ecrã - Medisafe 7](prints/image_07.jpeg)
+![Ecrã - Medisafe 8](prints/image_08.jpeg)
+![Ecrã - Medisafe 9](prints/image_09.jpeg)
