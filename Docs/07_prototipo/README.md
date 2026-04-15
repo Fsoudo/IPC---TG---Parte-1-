@@ -7,8 +7,8 @@
 | Componente | Miguel (27131) | Francisco (14060) |
 |------------|---------------|-------------------|
 | Esboços papel (fotografados) | [ ] | [ ] |
-| Protótipo Balsamiq + explicação ecrãs | [ ] | [ ] |
-| Diagrama de navegação | [ ] | [X] |
+| Protótipo Figma + explicação ecrãs | [ ] | [ ] |
+| Diagrama de navegação | [X] | [X] |
 | Princípios de usabilidade (3-4) | [X] | [X] |
 
 ## Estrutura
@@ -17,12 +17,12 @@
 07_prototipo/
 ├── miguel/
 │   ├── esbocos_papel/        # Fotos dos esboços a lápis
-│   ├── balsamiq/             # Ficheiro .bmpr e exports PNG/PDF
+│   ├── figma/                # Exports PNG/PDF do Figma
 │   ├── navegacao/            # Diagrama de navegação
 │   └── principios_usabilidade_miguel.md   [X]
 └── francisco/
     ├── esbocos_papel/
-    ├── balsamiq/
+    ├── figma/
     ├── navegacao/
     └── principios_usabilidade_francisco.md  [X]
 ```

@@ -7,7 +7,7 @@ Analisar 2 aplicações existentes de gestão de medicação (1 por elemento).
 
 | App | Responsável | Estado |
 |-----|-------------|--------|
-| Medisafe | Miguel Pauzinho (27131) | [ ] |
+| Medisafe | Miguel Pauzinho (27131) | [X] |
 | MyTherapy | Francisco Soudo (14060) | [X] |
 
 ## Critérios de Análise

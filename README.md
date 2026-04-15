@@ -27,7 +27,7 @@ O **EasyMed** é uma aplicação Android que auxilia pacientes na gestão da tom
 
 - **Gestão de Projeto:** Trello (Scrum - colunas: Épicos, Tarefas, Sprints)
 - **Controlo de Versões:** Git + GitHub
-- **Prototipagem:** Balsamiq Cloud
+- **Prototipagem:** Figma
 - **Metodologia:** Scrum
 
 ---
@@ -37,13 +37,13 @@ O **EasyMed** é uma aplicação Android que auxilia pacientes na gestão da tom
 | # | Secção | Valor | Estado |
 |---|--------|-------|--------|
 | 1 | Ferramentas e Organização da Equipa | 2 | 🟡 Em curso |
-| 2 | Participação em Eventos de Informática | 1 | 🟡 Aguarda eventos (8 e 15 abr) |
+| 2 | Participação em Eventos de Informática | 1 | 🟡 Presença confirmada, registo por escrever |
 | 3 | Sistemas Semelhantes | 2 | ✅ Concluído |
 | 4 | Caracterização dos Utilizadores (Personas) | 2 | ✅ Concluído |
 | 5 | Cenários de Utilização | 2 | ✅ Concluído |
 | 6 | Análise de Tarefas (HTA) | 2 | ✅ Concluído |
 | 7 | Estilos e Dispositivos de Interação | 1 | ✅ Concluído |
-| 8 | Protótipo da Aplicação (Balsamiq) | 6 | ❌ Por fazer |
+| 8 | Protótipo da Aplicação (Figma) | 6 | 🟡 Em curso |
 | 9 | Relatório Individual + Apresentação | 2 | 🟡 Em curso |
 | | **Total** | **20** | |
 
@@ -52,7 +52,7 @@ O **EasyMed** é uma aplicação Android que auxilia pacientes na gestão da tom
 ## Estrutura do Repositório
 
 ```
-EasyMed_Local/
+EasyMed/
 ├── Docs/
 │   ├── 00_eventos/                        # Participação nos eventos
 │   ├── 01_organizacao/                    # Trello, Scrum, capturas
@@ -72,7 +72,7 @@ EasyMed_Local/
 │   └── 07_prototipo/
 │       ├── miguel/
 │       │   ├── esbocos_papel/             # Fotos dos esboços a lápis
-│       │   ├── balsamiq/                  # Ficheiros e exports Balsamiq
+│       │   ├── figma/                     # Exports PNG/PDF do Figma
 │       │   ├── navegacao/                 # Diagramas de navegação
 │       │   └── principios_usabilidade_miguel.md
 │       └── francisco/
@@ -90,7 +90,7 @@ EasyMed_Local/
 
 ## Entrega
 
-Ficheiro ZIP via Moodle de IPC até **10 de abril de 2026**:
+Ficheiro ZIP via Moodle de IPC até **29 de abril de 2026**:
 
 ```
 TG1_14_27131_14060.zip
