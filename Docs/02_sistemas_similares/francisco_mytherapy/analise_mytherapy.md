@@ -33,15 +33,15 @@ O ecrã principal funciona como uma *To-Do List* (agenda diária), mostrando os 
 
 Aqui encontram-se vários ecrãs que atestam a navegação e a experiência de utilizador na aplicação:
 
-![Ecrã - MyTherapy 1](Prints/image_01.jpeg)
-![Ecrã - MyTherapy 2](Prints/image_02.jpeg)
-![Ecrã - MyTherapy 3](Prints/image_03.jpeg)
-![Ecrã - MyTherapy 4](Prints/image_04.jpeg)
-![Ecrã - MyTherapy 5](Prints/image_05.jpeg)
-![Ecrã - MyTherapy 6](Prints/image_06.jpeg)
-![Ecrã - MyTherapy 7](Prints/image_07.jpeg)
-![Ecrã - MyTherapy 8](Prints/image_08.jpeg)
-![Ecrã - MyTherapy 9](Prints/image_09.jpeg)
-![Ecrã - MyTherapy 10](Prints/image_10.jpeg)
-![Ecrã - MyTherapy 11](Prints/image_11.jpeg)
+![Ecrã - MyTherapy 1](prints/image_01.jpeg)
+![Ecrã - MyTherapy 2](prints/image_02.jpeg)
+![Ecrã - MyTherapy 3](prints/image_03.jpeg)
+![Ecrã - MyTherapy 4](prints/image_04.jpeg)
+![Ecrã - MyTherapy 5](prints/image_05.jpeg)
+![Ecrã - MyTherapy 6](prints/image_06.jpeg)
+![Ecrã - MyTherapy 7](prints/image_07.jpeg)
+![Ecrã - MyTherapy 8](prints/image_08.jpeg)
+![Ecrã - MyTherapy 9](prints/image_09.jpeg)
+![Ecrã - MyTherapy 10](prints/image_10.jpeg)
+![Ecrã - MyTherapy 11](prints/image_11.jpeg)
 
